@@ -1,4 +1,4 @@
-# DCS.NET-Departure-Control-System
+# Departure-Control-System (DCS.NET)
 New generation departure control system
 
-https://www.volsoft.com.tr/en/departure-control-system-dcs/
+https://www.volsoft.com.tr/en/departure-control-system/
